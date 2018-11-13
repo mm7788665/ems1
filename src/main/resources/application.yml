@@ -1,6 +1,6 @@
 server:
-  context-path: /app
-  port: 8989
+  context-path: /emp
+  port: 9999
   jsp-servlet:
     init-parameters:
       development: true
